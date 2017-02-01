@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>prueba-app</groupId>
-  <artifactId>12412431</artifactId>
+  <artifactId>28846182</artifactId>
   <version>2</version>
   <packaging>jar</packaging>
 
@@ -28,7 +28,7 @@
     <id>Mi Id</id>
     <activation>
       <os>
-        <family>linux</family>
+        <family>windows</family>
       </os>
     </activation>
     <build> 
